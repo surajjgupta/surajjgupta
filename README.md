@@ -2,7 +2,8 @@
 - 👀 I’m interested in 3d arts
 - 🌱 I’m currently learning realistic 3d character
 - 💞️ I’m looking to collaborate 3d artist
-- 📫 How to reach me dm me
+- 📫 How to reach me surajgupta959697@gmail.com
+-
 
 <!---
 surajjgupta/surajjgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
